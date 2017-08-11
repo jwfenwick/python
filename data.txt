@@ -1,0 +1,5 @@
+John	63
+Jim	44
+Sally	75
+Mary	49
+Bob	49
